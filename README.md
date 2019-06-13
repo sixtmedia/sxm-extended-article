@@ -6,6 +6,7 @@ Erweitert die Contao CMS Artikel um die Möglichkeit, Hintergrundbilder (auch mi
 
 ```sh
 $ composer require sixtmedia/sxm-extended-article
+```
 
 ## Dokumentation
 
